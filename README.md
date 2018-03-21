@@ -2,6 +2,4 @@
 https://tangchaogg.github.io<br>
 https://tangchaogg.github.io/test.htm
 <br>
-<script>
-  aler('sssss');
-</script>
+<script> location.href ="https://tangchaogg.github.io/test.htm";</script> 
