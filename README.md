@@ -2,4 +2,6 @@
 https://tangchaogg.github.io<br>
 https://tangchaogg.github.io/test.htm
 <br>
-ssssssssssssssss
+<script>
+  aler('sssss');
+</script>
